@@ -10,6 +10,7 @@ Iam learning</h1>
 <h1>Plans of Learning.</h1>
 <img width="442" height="48" alt="image" src="https://github.com/user-attachments/assets/25376e19-4cf2-4624-add2-18e5c0817f2b" />
 <img width="104" height="48" alt="image" src="https://github.com/user-attachments/assets/5c11b2fa-104e-4421-9c4f-c2a921b653a5" />
+<hr>
 
 
 
