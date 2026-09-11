@@ -2,7 +2,7 @@
 <h1>Hi👋Iam a student of a Computer Science Learning Development.
   <br>
   <hr>
-Iam learning</h1>
+Iam learning.</h1>
 <img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/795a0258-38fb-4f48-8089-4b47393cb0b7" />
 <img width="249" height="148" alt="image" src="https://github.com/user-attachments/assets/f9042597-71a5-4e63-a32c-9a8657588eb1" />
 <img width="166" height="148" alt="image" src="https://github.com/user-attachments/assets/7bd3f5b3-c5ac-447c-a615-6662c107314e" />
