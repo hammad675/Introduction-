@@ -12,7 +12,7 @@
 <img width="442" height="48" alt="image" src="https://github.com/user-attachments/assets/25376e19-4cf2-4624-add2-18e5c0817f2b" />
 <img width="104" height="48" alt="image" src="https://github.com/user-attachments/assets/5c11b2fa-104e-4421-9c4f-c2a921b653a5" />
 <hr>
-<h1>Learner 🚀 | Deep diving into Network Security & Cryptography | Future Cyber Defender.</h1>
+<h1>Learner.🚀 | Deep diving into Network Security & Cryptography | Future Cyber Defender.</h1>
 <img width="125" height="125" alt="ChatGPT Image Sep 1, 2026, 08_04_06 PM" src="https://github.com/user-attachments/assets/0b2bc9e7-584e-429b-836b-0fb366a9e8ff" />
 <img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/28d67871-8d3e-4079-a87a-0a38a87711a1" />
 <img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/b692e2a3-b87a-4071-a821-91767d43ab9a" />
