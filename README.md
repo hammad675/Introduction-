@@ -3,7 +3,6 @@ Introduction
 <h1>Hi👋Iam a student of a Computer Science Learning Development.</h1>
   <br>
   <hr>
-  
 <h2>I am learning.</h2>
 <img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/795a0258-38fb-4f48-8089-4b47393cb0b7" />
 <img width="249" height="148" alt="image" src="https://github.com/user-attachments/assets/f9042597-71a5-4e63-a32c-9a8657588eb1" />
